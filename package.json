@@ -5,7 +5,6 @@
   "exports": {
     ".": "./dist/src/index.js",
     "./oauth": "./dist/src/auth/oauth/index.js",
-    "./webhooks": "./dist/src/webhooks/registry.js",
     "./adapters/node": "./dist/src/adapters/node/index.js",
     "./adapters/cf-worker": "./dist/src/adapters/cf-worker/index.js"
   },
